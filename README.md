@@ -89,15 +89,15 @@ Infra       Docker Compose · sing-box · vless subscription tooling
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZYHUO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZYHUO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZYHUO&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" alt="Streak" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZYHUO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYHUO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZYHUO&theme=tokyonight" alt="Profile Summary" />
 
 </div>
 
