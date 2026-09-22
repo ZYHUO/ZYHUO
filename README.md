@@ -11,6 +11,12 @@
 
 `Go` · `TypeScript` · `Rust` · `Vue 3` · `Electron`
 
+> **In production use:** [`CLIProxy-Quota-Tray`](https://github.com/ZYHUO/CLIProxy-Quota-Tray) is
+> listed in the official ecosystem of
+> [`router-for-me/CLIProxyAPI`](https://github.com/router-for-me/CLIProxyAPI)
+> (★52.8k) — the upstream it integrates with.
+
+
 </div>
 
 ---
