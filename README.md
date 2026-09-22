@@ -37,8 +37,7 @@ A modern proxy-panel management system. **Go** backend + **Vue 3** frontend,
 sing-box core underneath. SQLite (default) or MySQL, JWT auth, SQL-injection
 hardening, real-time traffic stats, Docker Compose one-liner.
 
-> ⚠️ Currently ships **without a license** — being fixed. Until then, treat it as
-> all-rights-reserved.
+> **MIT licensed** — fork it, change it, ship it.
 
 ### ⭐ [NyatBot](https://github.com/ZYHUO/nyat-bot) — ★ 9
 A Telegram group-chat agent. Not a bot that answers when poked — an agent that
@@ -56,6 +55,7 @@ OpenAI / Claude status. Terminal-dark UI, embedded JetBrains Mono.
 ### 📰 [tg-newsbot](https://github.com/ZYHUO/tg-newsbot) — ★ 1
 Telegram channel news push. Polls RSS/Atom → dedupes → LLM Chinese summary →
 publishes. ~40 verified feeds across 6 categories, per-source intervals.
+**MIT licensed.**
 
 ### ⛏️ [minecraft-grok-bot](https://github.com/ZYHUO/minecraft-grok-bot)
 Many independent Grok minds × many Minecraft bodies. Soul-configurable agents
